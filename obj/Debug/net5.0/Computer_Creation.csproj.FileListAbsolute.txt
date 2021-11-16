@@ -1,0 +1,16 @@
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\Computer_Creation.exe
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\Computer_Creation.deps.json
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\Computer_Creation.runtimeconfig.json
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\Computer_Creation.runtimeconfig.dev.json
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\Computer_Creation.dll
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\ref\Computer_Creation.dll
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\bin\Debug\net5.0\Computer_Creation.pdb
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.csproj.AssemblyReference.cache
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.AssemblyInfoInputs.cache
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.AssemblyInfo.cs
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.dll
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\ref\Computer_Creation.dll
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.pdb
+C:\Users\banan\source\repos\Computer_Creation\Computer_Creation\obj\Debug\net5.0\Computer_Creation.genruntimeconfig.cache
